@@ -13,7 +13,7 @@ MOOSE is an engineering simulation tool used by scientists. It can be used to si
 | Main/documentation website |https://mooseframework.inl.gov/index.html    |
 | Year project was started | 2008 |
 | Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
-| Number of contributors in the lifetime of the project |   |
+| Number of contributors in the lifetime of the project | 199 |
 | Number of distinct affiliations | 1, 2-5, 5-10, >10 |
 | Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
 | Typical number of emails/comments per week? |   |
