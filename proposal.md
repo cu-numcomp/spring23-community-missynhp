@@ -1,4 +1,4 @@
-# Community Software Analysis Proposal
+cd# Community Software Analysis Proposal
 Please edit this file and push to your repository.
 
 ## Software: MOOSE 
@@ -31,7 +31,7 @@ encountered a problem.
 
 - [x] I have installed the software
 - [x] I have run at least one example
-- [ ] I have run the test suite
+- [x] I have run the test suite
 - [ ] The test suite passes
 
 ### Notes/concerns/risks
