@@ -12,25 +12,25 @@ MOOSE is an engineering simulation tool used by scientists. It can be used to si
 | Repository URL | https://github.com/idaholab/moose   |
 | Main/documentation website |https://mooseframework.inl.gov/index.html    |
 | Year project was started | 2008 |
-| Number of contributors in the past year | `git shortlog -se --since=2022-03-01` may be useful |
+| Number of contributors in the past year | 57 `git shortlog -se --since=2022-03-01` may be useful |
 | Number of contributors in the lifetime of the project | 199 |
-| Number of distinct affiliations | 1, 2-5, 5-10, >10 |
-| Where do development discussions take place? | e.g., GitHub/GitLab issues, mailing list, Slack, etc.  |
-| Typical number of emails/comments per week? |   |
-| Typical number of commits per week? |  |
+| Number of distinct affiliations | 4 |
+| Where do development discussions take place? | GitHub issues  |
+| Typical number of emails/comments per week? | 56 |
+| Typical number of commits per week? | 56 |
 | Typical commit size | `git log --shortstat` may be useful |
-| How does the project accept contributions? | e.g., pull requests, patches on mailing lists   |
-| Does the project have an automated test suite? | yes/no |
-| Does the project use continuous integration? | yes/no |
-| Are any legal/licensing steps required to contribute? | no or explain below |
+| How does the project accept contributions? | pulls requests, issues, and disscussions   |
+| Does the project have an automated test suite? | yes|
+| Does the project use continuous integration? | yes |
+| Are any legal/licensing steps required to contribute? | No. There are guidelines for contributing but the link doesn't work |
 
 ### Install and run
 
 Check the following boxes when complete or add a note below if you
 encountered a problem.
 
-- [ ] I have installed the software
-- [ ] I have run at least one example
+- [x] I have installed the software
+- [x] I have run at least one example
 - [ ] I have run the test suite
 - [ ] The test suite passes
 
